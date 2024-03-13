@@ -1,0 +1,6 @@
+const DataTable = $("#DataTableBarang")
+const deleteModal =  $("#DeleteModal")
+const deleteForm = $("#DeleteForm")
+const deleteConfirm = $("#DeleteConfirm")
+const EditModal = $("#EditModal")
+const EditForm = $("#EditForm")
